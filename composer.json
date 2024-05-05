@@ -1,5 +1,5 @@
 {
-    "name": "cg/hyperf-ext-mail",
+    "name": "hyperf-ext-mail",
     "type": "library",
     "license": "MIT",
     "keywords": [
