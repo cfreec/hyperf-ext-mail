@@ -17,7 +17,7 @@
 - [本地化通知](#localizing-mailables)
 - [邮件与本地开发](#mail-and-local-development)
 - [事件](#events)
-
+- hyperf 3.1高版本
 <a name="introduction"></a>
 ## 简介
 
