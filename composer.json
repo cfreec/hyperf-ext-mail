@@ -36,6 +36,7 @@
         "php": ">=8.0",
         "ext-json": "*",
         "ext-swoole": ">=4.5",
+        "hyperf-ext/contract": ">=2.2.0",
         "symfony/mailer": "^6.0.5"
     },
     "require-dev": {
